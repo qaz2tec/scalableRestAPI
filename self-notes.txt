@@ -1,0 +1,3 @@
+different ways to make a config file - insert config variables inside enviornment variables
+or make a seperate file for config management - file based config is prefered in production
+as it is easily trackable 
